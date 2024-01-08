@@ -1,0 +1,58 @@
+{
+  "title":"Que tipo de gatinho você seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que você gosta de fazer fim de semana?",
+      "options":[
+        {"id": 1, "name":"Vou pra balada curtir", "alias":"A"},
+        {"id": 2, "name":"Aproveito para colocar o sono em dia", "alias":"B"},
+        {"id": 3, "name":"Netflix com pipoca", "alias":"C"},
+        {"id": 4, "name":"Fico de carinho com o mozão", "alias":"B"},
+        {"id": 5, "name":"Caminhada ou trilha para relaxar", "alias":"C"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Alguem te convida pra sair, você: ",
+      "options":[
+        {"id": 1, "name":"Claro que aceita #rolezeira", "alias":"A"},
+        {"id": 2, "name":"Fala que tem outro compromisso e fica em casa", "alias":"B"},
+        {"id": 3, "name":"Aceita mesmo não querendo ir", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O quanto você se exercita?",
+      "options":[
+        {"id": 1, "name":"O dia inteiro! É cansativo andar até a cozinha", "alias":"B"},
+        {"id": 2, "name":"Amo academia, dançar, correr...", "alias":"A"},
+        {"id": 3, "name":"Não consigo ficar parada, sempre preciso gastar energia!", "alias":"A"},
+        {"id": 4, "name":"De vez em quando saio para caminhar ou correr", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como seus amigos te definem?",
+      "options":[
+        {"id": 1, "name":"A pessoa doida do role, mas sabem que se preocupa com os amigos", "alias":"A"},
+        {"id": 2, "name":"O preguiçoso da turma, mas super carinhoso", "alias":"B"},
+        {"id": 3, "name":"Uma pessoa idosa e rabugenta, mas companheira", "alias":"C"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Seus planos pros próximos anos: ",
+      "options":[
+        {"id": 1, "name":"Sair de casa e ir morar sozinho", "alias":"A"},
+        {"id": 2, "name":"Conhecer restaurantes de vários tipos de culinaria", "alias":"B"},
+        {"id": 3, "name":"Alcançar a paz de espírito", "alias":"C"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é o gatinho magrelo e durinho, mia todo dia as 5 da manhã pra entrar no quarto e do nada sai correndo pela casa inteira",
+    "B": "Você é o gatinho gordinho e dorminhoco, com uma pancinha bem molenga. Dorme o dia inteiro e é carente, sua vida é pedir carinho e ração",
+    "C": "Você é o gatinho mau humorado, mas segue seu humano para todos os lados e de vez em quando mostra seu lado dócil pra quem merece"
+  }
+}
